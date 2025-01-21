@@ -498,32 +498,16 @@ export default {
             label: "通用",
             options: [
               {
-                label: "Ruich自用",
+                label: "自用",
                 value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/default.ini"
               },
               {
-                label: "默认（索尼电视专用）",
-                value: "https://raw.githubusercontent.com/youshandefeiyang/webcdn/main/SONY.ini"
+                label: "自用（去广告）",
+                value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/mobile.ini"
               },
               {
-                label: "默认（附带用于 Clash 的 AdGuard DNS）",
-                value: "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/default_with_clash_adg.yml"
-              },
-              {
-                label: "ACL_全分组 Dream修改版",
-                value: "https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Online_Full_Dream.ini"
-              },
-              {
-                label: "ACL_精简分组 Dream修改版",
-                value: "https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Mini_Dream.ini"
-              },
-              {
-                label: "emby-TikTok-流媒体分组-去广告加强版",
-                value: "https://raw.githubusercontent.com/justdoiting/ClashRule/main/GeneralClashRule.ini"
-              },
-              {
-                label: "流媒体通用分组",
-                value: "https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini"
+                label: "自用（无DNS泄露）绕过大陆",
+                value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/router-w.ini"
               }
             ]
           },
