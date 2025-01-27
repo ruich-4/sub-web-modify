@@ -498,15 +498,19 @@ export default {
             label: "通用",
             options: [
               {
-                label: "自用",
+                label: "自用（router）",
                 value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/default.ini"
               },
               {
-                label: "自用（去广告）",
+                label: "自用-（mobile）去广告",
                 value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/mobile.ini"
               },
+               {
+                label: "自用（router）gfwlist",
+                value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/router-b.ini"
+              },
               {
-                label: "自用（无DNS泄露）绕过大陆",
+                label: "自用（router）无dns泄露-绕过大陆",
                 value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/router-w.ini"
               }
             ]
