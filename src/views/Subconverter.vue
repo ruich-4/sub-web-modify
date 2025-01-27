@@ -502,7 +502,7 @@ export default {
                 value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/default.ini"
               },
               {
-                label: "自用-（mobile）去广告",
+                label: "自用（mobile）去广告",
                 value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/mobile.ini"
               },
                {
