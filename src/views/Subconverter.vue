@@ -499,19 +499,19 @@ export default {
             options: [
               {
                 label: "自用（router）",
-                value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/default.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/default.ini"
               },
               {
                 label: "自用（mobile）去广告",
-                value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/mobile.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/mobile.ini"
               },
                {
                 label: "自用（router）gfwlist",
-                value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/router-b.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/router-b.ini"
               },
               {
                 label: "自用（router）无dns泄露-绕过大陆",
-                value: "https://raw.githubusercontent.com/ruich-4/mihomo/main/router-w.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/router-w.ini"
               }
             ]
           },
@@ -520,63 +520,63 @@ export default {
             options: [
               {
                 label: "ACL_默认版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
               },
               {
                 label: "ACL_无测速版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
               },
               {
                 label: "ACL_去广告版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
               },
               {
                 label: "ACL_多国家版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_MultiCountry.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_MultiCountry.ini"
               },
               {
                 label: "ACL_无Reject版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini"
               },
               {
                 label: "ACL_无测速精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_NoAuto.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_NoAuto.ini"
               },
               {
                 label: "ACL_全分组版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
               },
               {
                 label: "ACL_全分组谷歌版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Google.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Google.ini"
               },
               {
                 label: "ACL_全分组多模式版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
               },
               {
                 label: "ACL_全分组奈飞版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini"
               },
               {
                 label: "ACL_精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"
               },
               {
                 label: "ACL_去广告精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_AdblockPlus.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_AdblockPlus.ini"
               },
               {
                 label: "ACL_Fallback精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_Fallback.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_Fallback.ini"
               },
               {
                 label: "ACL_多国家精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiCountry.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiCountry.ini"
               },
               {
                 label: "ACL_多模式精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini"
               }
             ]
           },
@@ -585,11 +585,11 @@ export default {
             options: [
               {
                 label: "常规规则",
-                value: "https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG.ini"
               },
               {
                 label: "酷酷自用",
-                value: "https://raw.githubusercontent.com/xiaoshenxian233/cool/rule/complex.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/xiaoshenxian233/cool/rule/complex.ini"
               },
               {
                 label: "PharosPro无测速",
@@ -598,31 +598,31 @@ export default {
               },
               {
                 label: "分区域故障转移",
-                value: "https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_Fallback.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_Fallback.ini"
               },
               {
                 label: "分区域自动测速",
-                value: "https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_Urltest.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_Urltest.ini"
               },
               {
                 label: "分区域无自动测速",
-                value: "https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_NoAuto.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_NoAuto.ini"
               },
               {
                 label: "OoHHHHHHH",
-                value: "https://raw.githubusercontent.com/OoHHHHHHH/ini/master/config.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/OoHHHHHHH/ini/master/config.ini"
               },
               {
                 label: "CFW-TAP",
-                value: "https://raw.githubusercontent.com/OoHHHHHHH/ini/master/cfw-tap.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/OoHHHHHHH/ini/master/cfw-tap.ini"
               },
               {
                 label: "lhl77全分组（定期更新）",
-                value: "https://raw.githubusercontent.com/lhl77/sub-ini/main/tsutsu-full.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/lhl77/sub-ini/main/tsutsu-full.ini"
               },
               {
                 label: "lhl77简易版（定期更新）",
-                value: "https://raw.githubusercontent.com/lhl77/sub-ini/main/tsutsu-mini-gfw.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/lhl77/sub-ini/main/tsutsu-mini-gfw.ini"
               },
               {
                 label: "ConnersHua 神机规则 Outbound",
@@ -646,43 +646,43 @@ export default {
               },
               {
                 label: "多策略组默认白名单模式",
-                value: "https://raw.nameless13.com/api/public/dl/ROzQqi2S/white.ini"
+                value: "https://cors.seless.workers.dev/https://raw.nameless13.com/api/public/dl/ROzQqi2S/white.ini"
               },
               {
                 label: "多策略组可以有效减少审计触发",
-                value: "https://raw.nameless13.com/api/public/dl/ptLeiO3S/mayinggfw.ini"
+                value: "https://cors.seless.workers.dev/https://raw.nameless13.com/api/public/dl/ptLeiO3S/mayinggfw.ini"
               },
               {
                 label: "精简策略默认白名单",
-                value: "https://raw.nameless13.com/api/public/dl/FWSh3dXz/easy3.ini"
+                value: "https://cors.seless.workers.dev/https://raw.nameless13.com/api/public/dl/FWSh3dXz/easy3.ini"
               },
               {
                 label: "多策略增加SMTP策略",
-                value: "https://raw.nameless13.com/api/public/dl/L_-vxO7I/youtube.ini"
+                value: "https://cors.seless.workers.dev/https://raw.nameless13.com/api/public/dl/L_-vxO7I/youtube.ini"
               },
               {
                 label: "无策略入门推荐",
-                value: "https://raw.nameless13.com/api/public/dl/zKF9vFbb/easy.ini"
+                value: "https://cors.seless.workers.dev/https://raw.nameless13.com/api/public/dl/zKF9vFbb/easy.ini"
               },
               {
                 label: "无策略入门推荐国家分组",
-                value: "https://raw.nameless13.com/api/public/dl/E69bzCaE/easy2.ini"
+                value: "https://cors.seless.workers.dev/https://raw.nameless13.com/api/public/dl/E69bzCaE/easy2.ini"
               },
               {
                 label: "无策略仅IPIP CN + Final",
-                value: "https://raw.nameless13.com/api/public/dl/XHr0miMg/ipip.ini"
+                value: "https://cors.seless.workers.dev/https://raw.nameless13.com/api/public/dl/XHr0miMg/ipip.ini"
               },
               {
                 label: "无策略魅影vip分组",
-                value: "https://raw.nameless13.com/api/public/dl/BBnfb5lD/MAYINGVIP.ini"
+                value: "https://cors.seless.workers.dev/https://raw.nameless13.com/api/public/dl/BBnfb5lD/MAYINGVIP.ini"
               },
               {
                 label: "品云专属配置（仅香港区域分组）",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Examine.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Examine.ini"
               },
               {
                 label: "品云专属配置（全地域分组）",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Examine_Full.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Examine_Full.ini"
               },
               {
                 label: "nzw9314 规则",
@@ -789,7 +789,7 @@ export default {
               },
               {
                 label: "咸鱼",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/xianyu.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/xianyu.ini"
               },
               {
                 label: "便利店",
@@ -797,27 +797,27 @@ export default {
               },
               {
                 label: "CNIX",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/SSRcloud.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/SSRcloud.ini"
               },
               {
                 label: "Nirvana",
-                value: "https://raw.githubusercontent.com/Mazetsz/ACL4SSR/master/Clash/config/V2rayPro.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/Mazetsz/ACL4SSR/master/Clash/config/V2rayPro.ini"
               },
               {
                 label: "V2Pro",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/V2Pro.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/V2Pro.ini"
               },
               {
                 label: "史迪仔-自动测速",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Stitch.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Stitch.ini"
               },
               {
                 label: "史迪仔-负载均衡",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Stitch-Balance.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Stitch-Balance.ini"
               },
               {
                 label: "Maying",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/maying.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/maying.ini"
               },
               {
                 label: "Ytoo",
@@ -825,11 +825,11 @@ export default {
               },
               {
                 label: "w8ves",
-                value: "https://raw.nameless13.com/api/public/dl/M-We_Fn7/w8ves.ini"
+                value: "https://cors.seless.workers.dev/https://raw.nameless13.com/api/public/dl/M-We_Fn7/w8ves.ini"
               },
               {
                 label: "NyanCAT",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/nyancat.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/nyancat.ini"
               },
               {
                 label: "Nexitally",
@@ -837,11 +837,11 @@ export default {
               },
               {
                 label: "SoCloud",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/socloud.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/socloud.ini"
               },
               {
                 label: "ARK",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/ark.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/ark.ini"
               },
               {
                 label: "N3RO",
@@ -862,11 +862,11 @@ export default {
             options: [
               {
                 label: "NeteaseUnblock",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/netease.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/netease.ini"
               },
               {
                 label: "Basic",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/basic.ini"
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/basic.ini"
               }
             ]
           }
@@ -877,7 +877,7 @@ export default {
         clientType: "",
         customBackend: this.getUrlParam() == "" ? "https://sub.dokploy.pp.ua" : this.getUrlParam(),
         shortType: "https://sub.dokploy.pp.ua/short",
-        remoteConfig: "https://raw.githubusercontent.com/ruich-4/mihomo/main/default.ini",
+        remoteConfig: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/default.ini",
         excludeRemarks: "",
         includeRemarks: "",
         filename: "",
