@@ -498,20 +498,20 @@ export default {
             label: "通用",
             options: [
               {
-                label: "自用（router）",
+                label: "默认",
                 value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/default.ini"
               },
               {
-                label: "自用（mobile）去广告",
+                label: "默认（去广告）",
                 value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/mobile.ini"
               },
                {
-                label: "自用（router）gfwlist",
-                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/router-b.ini"
+                label: "gfwlist及境外黑名单",
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/blacklist.ini"
               },
               {
-                label: "自用（router）无dns泄露-绕过大陆",
-                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/router-w.ini"
+                label: "大陆白名单-无DNS泄露",
+                value: "https://cors.seless.workers.dev/https://raw.githubusercontent.com/ruich-4/mihomo/main/whitelist.ini"
               }
             ]
           },
